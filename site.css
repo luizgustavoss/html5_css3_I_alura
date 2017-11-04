@@ -32,11 +32,13 @@ aside {
 aside a{
     color: inherit;
     font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-decoration: none;
 }
 
 main a{
     color: #851944;
     font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-decoration: none;
 }
 
 footer{
